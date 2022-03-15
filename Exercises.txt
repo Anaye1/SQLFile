@@ -1,0 +1,18 @@
+Exercise:
+
+
+create table lecture 
+(
+LecturerId int,
+FirstName varchar(255),
+LastName varchar(255),
+Age int,
+Salary double,
+Department enum('Qa','Muel','Fullstack'),
+SSN int,
+HiraeDate date,
+Gender enum('male','female'),
+status boolean
+);
+
+Q1.
